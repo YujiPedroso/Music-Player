@@ -1,7 +1,7 @@
 let musicas = [
     {titulo: "EU SOU O TREM", artista: "Filipe Ret, L7nnon e MC Cabelinho", src:"assets/audio/Eu sou o trem.mp3", img:"assets/images/capa.jpg"},
    
-    {titulo: "Groupies", artista: "Doode, Matuê e Teto", src:"assets/audio/Groupies.mp3", img:"./assets/images/capa2.png"},
+    {titulo: "Groupies", artista: "Doode, Matuê e Teto", src:"assets/audio/Groupies.mp3", img:"assets/images/Capa2.png"},
     
     {titulo: "Paypal", artista: "Teto", src:"assets/audio/Paypal.mp3", img:"assets/images/capa3.png"}
 ];
